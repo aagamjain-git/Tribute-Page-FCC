@@ -69,6 +69,11 @@ body{
   a:visited {
     color: #74638f;
   }
+  #owner
+  {
+      text-align: center;
+      
+  }
   @media(min-width:40rem)
   {
       #title{
